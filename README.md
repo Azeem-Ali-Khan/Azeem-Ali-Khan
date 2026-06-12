@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tools and Technologies (Learning/Usage Order)
+### 🛠️ Tools and Technologies
 <p>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
