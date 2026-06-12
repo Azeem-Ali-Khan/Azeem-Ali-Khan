@@ -9,8 +9,8 @@
 - 🌱 Actively learning **Advanced Deep Learning, NLP, and Generative AI**
 - 👯 Looking to collaborate on **data science and automation-based open-source projects**
 - 💬 Skilled in **Python, SQL (MS SQL), Power BI, Excel, Selenium, Plotly, Jupyter Notebook, Google Colab**
-- 📫 Reach me at: [vaibhavsrivastav7985@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsrivastav7985@gmail.com)
-- 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/vaibhavsrivastav18/)
+- 📫 Reach me at: [azeemalikhan88@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=azeemalikhan88@gmail.com)
+- 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/azeem-ali-khan-06a5b62b7/)
 
 ---
 
@@ -53,8 +53,8 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vaibhavsrivastav18/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsrivastav7985@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/azeem-ali-khan-06a5b62b7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=azeemalikhan88@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
